@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Link } from 'react-router-dom';
 import Cs1 from './cs/Cs1'
 import Cs2 from './cs/Cs2'
 import Cs3 from './cs/Cs3'
@@ -69,8 +69,9 @@ const App = () => {
       <h1 className="flex text-2xl justify-center bg-yellow-400 py-4">Trusure Hunt</h1>
       <h2 className='flex justify-center bg-red-500'>University College Of Engineering Arni</h2>
       <div className="">
+      <Link to="/">1</Link>
       <Routes>
-        <Route path="/" element={<Cs1 />} />
+        <Route path="cs/" element={<Cs1 />} />
         <Route path="cs/2" element={<Cs2 />} />
         <Route path="cs/3" element={<Cs3 />} />
         <Route path="cs/4" element={<Cs4 />} />
