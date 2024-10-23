@@ -69,7 +69,7 @@ const App = () => {
       <h1 className="flex text-2xl justify-center bg-yellow-400 py-4">Trusure Hunt</h1>
       <h2 className='flex justify-center bg-red-500'>University College Of Engineering Arni</h2>
       <div className="">
-      <Link to="/">1</Link>
+      <Link to="cs/">1sdfsd</Link>
       <Routes>
         <Route path="cs/" element={<Cs1 />} />
         <Route path="cs/2" element={<Cs2 />} />
