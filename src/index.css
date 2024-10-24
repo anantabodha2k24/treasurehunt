@@ -4,4 +4,5 @@
 body {
     background: url(./assets/bac.png);
     background-repeat: none;
+    background-size: cover;
 }
