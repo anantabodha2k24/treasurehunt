@@ -9,6 +9,7 @@ import Cs7 from './cs/Cs7'
 import Cs8 from './cs/Cs8'
 import Cs9 from './cs/Cs9'
 import Cs10 from './cs/Cs10'
+import Cs11 from './cs/Cs11'
 import Wt1 from './wt/Cs1'
 import Wt2 from './wt/Cs2'
 import Wt3 from './wt/Cs3'
@@ -81,6 +82,7 @@ const App = () => {
         <Route path="cs/8" element={<Cs8 />} />
         <Route path="cs/9" element={<Cs9 />} />
         <Route path="cs/10" element={<Cs10 />} />
+        <Route path="cs/11" element={<Cs11 />} />
         <Route path="wt/" element={<Wt1 />} />
         <Route path="wt/2" element={<Wt2 />} />
         <Route path="wt/3" element={<Wt3 />} />
