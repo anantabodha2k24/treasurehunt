@@ -8,7 +8,7 @@ const Csoth24 = () => {
             <h1 className="text-center text-xl  h-1/5 pt-2">
             Web Technology
             </h1>
-            <div className="text-center h-4/5 pt-8">
+            <div className="text-center flex justify-center h-4/5 pt-2 py-2 flex-wrap">
               10.Guess the word: <br/>  
               <img src={ph} alt="" />
             </div>

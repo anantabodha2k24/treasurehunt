@@ -66,7 +66,7 @@ import Hs10 from './hs/Cs10'
 const App = () => {
   return (
     <>
-      <h1 className="flex text-2xl justify-center absolute w-screen z-10 bg-yellow-400 py-4">Trusure Hunt</h1>
+      <h1 className="flex text-2xl justify-center absolute w-screen z-10 bg-yellow-400 py-4">Treasure Hunt</h1>
       <h2 className='flex justify-center absolute transform translate-y-16 w-screen bg-red-500 z-10'>University College Of Engineering Arni</h2>
       <div className="">
       <Link to="cs/">1sdfsd</Link>

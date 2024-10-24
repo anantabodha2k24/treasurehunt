@@ -8,7 +8,7 @@ const Csoth24 = () => {
             Hardware and Software
             </h1>
             <div className="text-center h-4/5 pt-8">
-              9. As combination Example: Mouse - qsywi
+              9.Example: Mouse - qsywi
               Then qsxlivfsevh?
             </div>
           </div>

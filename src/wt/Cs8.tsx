@@ -8,7 +8,7 @@ const Csoth24 = () => {
             Web Technology
             </h1>
             <div className="text-center h-4/5 pt-14">
-            8. As Combination Example: Backend - edfnhqg
+            8.Example: Backend - edfnhqg
             Then iurqwhqg?
             </div>
           </div>
