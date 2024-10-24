@@ -3,4 +3,5 @@
 @tailwind utilities;
 body {
     background: url(./assets/bac.png);
+    background-repeat: none;
 }
